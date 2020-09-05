@@ -51,7 +51,7 @@ void printHand(Hand *handToPrint)
 	}
 	printf("\n");
 }
-
+/*
 int main()
 {
     srand(time(0));
@@ -63,3 +63,4 @@ int main()
 
 	return(0);
 }
+*/
