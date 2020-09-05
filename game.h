@@ -43,4 +43,5 @@ int scoreUpperSection(Hand*,int);
 //Lower section scoring
 int scoreLowerSection(Hand*,int);
 
+void scoreAll();
 #endif //YACHT_C_GAME_H
